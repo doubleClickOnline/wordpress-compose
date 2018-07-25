@@ -1,6 +1,6 @@
 
-## Sample docker-compose project to get easy wordpress instance working
-
+## Sample docker-compose project to get simple wordpress up & running
+ 
 
 ### Prerequisites:
 Create folders for wordpress content and wordpress database:
