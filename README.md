@@ -3,10 +3,11 @@
 
 
 ### Prerequisites:
+ ```script
 Create folders for wordpress content and wordpress database:
  * wp-app-content
  * wp-database-content
-
+```
 
  ### Install:
  ```script
@@ -14,4 +15,6 @@ Create folders for wordpress content and wordpress database:
  ```
 
  ### Test
+  ```script
  http://localhost:8000/
+ ```
