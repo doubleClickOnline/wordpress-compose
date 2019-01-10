@@ -5,8 +5,8 @@
 ### Prerequisites:
  ```script
 Create folders for wordpress content and wordpress database:
- * wp-app-content
- * wp-database-content
+  -wp-app-content
+  -wp-database-content
 ```
 
  ### Install:
