@@ -1,6 +1,6 @@
 
-## Sample docker-compose project to get simple wordpress up & running
- 
+## Wordpress 4.9.7 up & running
+
 
 ### Prerequisites:
 Create folders for wordpress content and wordpress database:
@@ -12,3 +12,6 @@ Create folders for wordpress content and wordpress database:
  ```script
  docker-compose up -d
  ```
+
+ ### Test
+ http://localhost:8000/
