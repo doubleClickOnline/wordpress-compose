@@ -3,10 +3,12 @@
 
 
 ### Prerequisites:
+Create folders for wordpress content and wordpress database
+ - wp-app-content
+ - wp-database-content
+
  ```script
-Create folders for wordpress content and wordpress database:
-  -wp-app-content
-  -wp-database-content
+mkdir wp-app-content wp-database-content
 ```
 
  ### Install:
