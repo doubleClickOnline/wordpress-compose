@@ -1,5 +1,5 @@
 
-## Wordpress 4.9.7 up & running
+## Wordpress 5.0.3 up & running
 
 
 ### Prerequisites:
