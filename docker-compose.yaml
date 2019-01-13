@@ -15,7 +15,7 @@ services:
        - db
      links:
        - db
-     image: wordpress:4.9.7-php7.0-apache
+     image: wordpress:5.0.3-php7.1-apache
      volumes:
        - "./wp-app-content:/var/www/html"
      ports:
