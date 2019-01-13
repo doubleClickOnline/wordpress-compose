@@ -18,3 +18,4 @@ mkdir wp-app-content wp-database-content
 
  ### Test
  [http://localhost:3000/](http://localhost:3000/)
+
